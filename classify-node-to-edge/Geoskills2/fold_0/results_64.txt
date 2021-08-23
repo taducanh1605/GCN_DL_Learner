@@ -1,0 +1,10 @@
+====================================================== Fold 0: 
+Test Precision: 0.9999999999988636 | Test Recall: 0.14079999999997747 | Test F1: 0.246844319753889
+==============================
+Correct Prediction Rules (0):
+==============================
+New Rules (4):
+Geoskills2.Analyze_construction_recipes_of_enlargement_through_triangle_intercept_theorem Geoskills2.hasTopic Geoskills2.InterceptTheoremConverse
+Geoskills2.Know_triangle_intercept_theorems Geoskills2.hasTopic Geoskills2.InterceptTheoremConverse
+Geoskills2.InterceptTheoremConverse Geoskills2.converseTheorem Geoskills2.TriangleInterceptTheoremConverse
+Geoskills2.TriangleInterceptTheoremConverse Geoskills2.converseTheorem Geoskills2.InterceptTheoremConverse

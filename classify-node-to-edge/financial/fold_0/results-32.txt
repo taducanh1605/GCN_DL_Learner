@@ -1,0 +1,55 @@
+====================================================== Fold 0: 
+Test Precision: 0.9381933438984249 | Test Recall: 0.5318957771787483 | Test F1: 0.6788990825225486
+==============================
+Correct Prediction Rules (2):
+financial.woman2698 financial.hasSexValue financial.svFemaleSex
+financial.woman2488 financial.hasSexValue financial.svFemaleSex
+==============================
+New Rules (47):
+financial.man1694 financial.hasAgeValue financial.avFrom25To35
+financial.creditcard12 financial.isCreditCardOf financial.woman79
+financial.woman2999 financial.hasAgeValue financial.avFrom25To35
+financial.woman83 financial.livesIn financial.rNorthBohemia
+financial.woman79 financial.hasCreditCard financial.creditcard12
+financial.woman2688 financial.hasAgeValue financial.avFrom18To25
+financial.woman79 financial.livesIn financial.rPrague
+financial.woman1208 financial.hasAgeValue financial.avFrom25To35
+financial.man3161 financial.hasAgeValue financial.avFrom25To35
+financial.woman1239 financial.hasAgeValue financial.avFrom25To35
+financial.woman83 financial.hasAgeValue financial.avFrom25To35
+financial.woman7753 financial.hasAgeValue financial.avFrom25To35
+financial.woman2698 financial.hasAgeValue financial.avFrom18To25
+financial.woman13090 financial.hasAgeValue financial.avFrom25To35
+financial.creditcard204 financial.isCreditCardOf financial.woman5978
+financial.woman83 financial.hasCreditCard financial.creditcard11
+financial.woman2488 financial.hasAgeValue financial.avFrom25To35
+financial.woman1202 financial.hasAgeValue financial.avFrom25To35
+financial.woman4096 financial.hasAgeValue financial.avFrom25To35
+financial.woman2761 financial.hasAgeValue financial.avFrom25To35
+financial.woman2489 financial.hasAgeValue financial.avFrom25To35
+financial.man4928 financial.hasAgeValue financial.avFrom25To35
+financial.woman2787 financial.hasAgeValue financial.avFrom25To35
+financial.woman5978 financial.hasCreditCard financial.creditcard204
+financial.woman1240 financial.hasAgeValue financial.avFrom25To35
+financial.woman75 financial.hasAgeValue financial.avFrom25To35
+financial.man1292 financial.hasAgeValue financial.avFrom25To35
+financial.woman5978 financial.livesIn financial.rCentralBohemia
+financial.woman4224 financial.hasAgeValue financial.avFrom25To35
+financial.woman5978 financial.hasAgeValue financial.avFrom18To25
+financial.woman1239 financial.hasCreditCard financial.creditcard819
+financial.woman1235 financial.hasAgeValue financial.avFrom25To35
+financial.woman7348 financial.hasAgeValue financial.avFrom25To35
+financial.woman4091 financial.hasAgeValue financial.avFrom18To25
+financial.creditcard11 financial.isCreditCardOf financial.woman83
+financial.woman13089 financial.hasAgeValue financial.avFrom25To35
+financial.creditcard819 financial.isCreditCardOf financial.woman1239
+financial.man2087 financial.hasAgeValue financial.avFrom25To35
+financial.woman79 financial.hasAgeValue financial.avFrom18To25
+financial.woman2094 financial.hasAgeValue financial.avFrom25To35
+financial.woman80 financial.hasAgeValue financial.avFrom25To35
+financial.woman7796 financial.hasAgeValue financial.avFrom25To35
+financial.woman82 financial.hasAgeValue financial.avFrom25To35
+financial.woman2754 financial.hasAgeValue financial.avFrom25To35
+financial.woman1605 financial.hasAgeValue financial.avFrom25To35
+financial.woman390 financial.hasAgeValue financial.avFrom25To35
+financial.woman13098 financial.hasAgeValue financial.avFrom25To35
