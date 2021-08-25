@@ -70,8 +70,8 @@ def main(args):
         outputPath = path + "fold_" + str(i) + "/"
         if not os.path.exists(outputPath):
             os.mkdir(outputPath)
-        newDataset = outputPath + args.dataset + "_new.owl"
-        outputFile = outputPath + "results.txt"
+        newDataset = outputPath + args.dataset + "_new_" + str(args.n_hidden) +".owl"
+        outputFile = outputPath + "results_" + str(args.n_hidden) + ".txt"
 
         #------------------------data processing
         onto = ontology.load()
